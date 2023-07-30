@@ -1,0 +1,143 @@
+Timestamp,Email Address,Laporan,Kategori
+14/07/2023 16:38:15,andreadityayanwar@gmail.com,Saya melihat indikator check engine menyala di dashboard mobil saya.,Masalah Mesin
+14/07/2023 16:42:41,andreadityayanwar@gmail.com,"Saat saya menginjak rem, terdengar suara berdecit yang tidak biasa.",Kegagalan Rem
+14/07/2023 16:43:55,andreadityayanwar@gmail.com,Saya merasakan getaran yang tidak normal saat mengemudi di kecepatan tinggi.,"Masalah Kemudi, Masalah Ban"
+29/07/2023 14:45:35,andreadityayanwar@gmail.com,"Mobil saya stir nya tidak stabil, lalu pada saat menstater kadang kadang tidak menyala. Juga pada saat menyalakan lampu, si mobil harus dipanaskan agak lama.","Gangguan Listrik, Masalah Kemudi, Masalah Mesin"
+29/07/2023 14:47:07,naufal.berlian.99@gmail.com,kaca mobil tidak bisa bergerak,"Kerusakan Aksesoris Interior, Eksterior"
+29/07/2023 14:47:09,akhdan.musyaffa.firdaus@gmail.com,Rem berdercit setelah terkena hujan yang cukup deras,"Masalah Ban, Kegagalan Rem"
+29/07/2023 14:47:32,andreadityayanwar@gmail.com,"Lampu mobil saya kadang kadang mati mendadak, kemudian sering keluar asap pada knalpot.","Masalah Sistem Knalpot, Gangguan Listrik, Masalah Mesin"
+29/07/2023 14:47:47,naufal.berlian.99@gmail.com,oli bocor dan air aki habis,"Masalah Sistem Bahan Bakar, Masalah Mesin"
+29/07/2023 14:48:46,akhdan.musyaffa.firdaus@gmail.com,Wiper tidak menyala dengan semestinya,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+29/07/2023 14:48:49,naufal.berlian.99@gmail.com,ac rusak dan lampu sein redup,Gangguan Listrik
+29/07/2023 14:49:32,andreadityayanwar@gmail.com,"Pada saat melajur di jalan yang jelek, sering terdengar suara bising","Masalah Suspensi, Kerusakan Aksesoris Interior, Eksterior"
+29/07/2023 14:49:35,naufal.berlian.99@gmail.com,air radiator cepat habis dan mesin mengeluatkan suara aneh,"Masalah Mesin, Masalah Sistem Pendingin"
+29/07/2023 14:50:00,naufal.berlian.99@gmail.com,ban sering kempes,Masalah Ban
+29/07/2023 14:50:19,andreadityayanwar@gmail.com,"Kaca depan sering berembun ketika menyalakan AC, AC nya pun kurang dingin padahal sudah di set max.","Gangguan Listrik, Masalah Sistem Pendingin"
+29/07/2023 14:50:25,naufal.berlian.99@gmail.com,lampu depan mati sebelah,Gangguan Listrik
+29/07/2023 14:50:31,akhdan.musyaffa.firdaus@gmail.com,Suara audio player seperti radio dan mp3 tidak terdengar,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+29/07/2023 14:50:47,naufal.berlian.99@gmail.com,mobil tidak bisa menyala,"Gangguan Listrik, Masalah Sistem Bahan Bakar, Masalah Mesin"
+29/07/2023 14:52:18,akhdan.musyaffa.firdaus@gmail.com,Pindah transmisi dari gigi 3 ke 4 terasa sulit dan mengeluarkan suara bising,Masalah Transmisi
+29/07/2023 14:52:30,andreadityayanwar@gmail.com,"Bensin sangat boros, padahal sebelum sebelumnya tidak seperti ini. Juga mobil kadang kadang tidak stabil saya jalan.","Masalah Sistem Bahan Bakar, Masalah Kemudi, Masalah Ban"
+29/07/2023 14:52:43,akhdan.musyaffa.firdaus@gmail.com,Stir terasa berat,"Gangguan Listrik, Masalah Kemudi"
+29/07/2023 14:54:31,hallwack.id@gmail.com,Ga bisa jalan karena mesin bunyi,Masalah Mesin
+29/07/2023 14:55:40,hallwack.id@gmail.com,"Ketika mengerem mendadak, terdapat asap di bagian kaliper","Masalah Ban, Kegagalan Rem"
+29/07/2023 14:56:32,hallwack.id@gmail.com,Knalpot bunyi dan mengeluarkan asap tidak sedap,"Masalah Sistem Knalpot, Masalah Sistem Bahan Bakar"
+29/07/2023 14:56:57,hallwack.id@gmail.com,Setir terlalu berat,"Gangguan Listrik, Masalah Kemudi"
+29/07/2023 14:57:39,hallwack.id@gmail.com,Ada suara ketika pergantian gigi,Masalah Transmisi
+29/07/2023 14:57:55,hallwack.id@gmail.com,Pendingin tidak menyala dengan baik,Masalah Sistem Pendingin
+29/07/2023 14:58:18,hallwack.id@gmail.com,Penyok di bagian belakang mobil,"Kerusakan Aksesoris Interior, Eksterior"
+29/07/2023 16:34:29,luthfi552@gmail.com,"Ketika mau putar balik, setir berasa lebih berat dari biasanya","Masalah Kemudi, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:32:31,1197050010@student.uinsgd.ac.id,Suara knalpot kendaraan terdengar bising dan perlu diperbaiki.,Masalah Sistem Knalpot
+30/07/2023 14:34:06,1197050010@student.uinsgd.ac.id,Oli rem kendaraan menipis dan perlu ditambahkan.,Kegagalan Rem
+30/07/2023 14:34:28,1197050010@student.uinsgd.ac.id,Kondisi aki kendaraan lemah dan perlu diganti.,Masalah Mesin
+30/07/2023 14:34:51,1197050010@student.uinsgd.ac.id,Lampu sein kendaraan tidak berfungsi dan perlu diperbaiki.,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:35:09,1197050010@student.uinsgd.ac.id,Kunci pintu kendaraan tidak berfungsi dan perlu diganti.,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:35:25,1197050010@student.uinsgd.ac.id,Kabel koil kendaraan putus dan perlu diganti.,Gangguan Listrik
+30/07/2023 14:35:37,luthfi552@gmail.com,Knalpot mengeluarkan asap putih ketika awal menyalakan mesin,Masalah Sistem Knalpot
+30/07/2023 14:35:52,1197050010@student.uinsgd.ac.id,Mesin kendaraan sering mati saat idle.,"Gangguan Listrik, Masalah Mesin"
+30/07/2023 14:36:12,1197050010@student.uinsgd.ac.id,Kondisi karet rem kendaraan aus dan perlu diganti.,Kegagalan Rem
+30/07/2023 14:36:19,luthfi552@gmail.com,Ada suara cekit cekit pada rem ketika jalan menanjak,"Masalah Transmisi, Kegagalan Rem"
+30/07/2023 14:36:30,1197050010@student.uinsgd.ac.id,Sistem pendingin mesin kendaraan rusak dan perlu diperbaiki.,Masalah Sistem Pendingin
+30/07/2023 14:36:43,luthfi552@gmail.com,Lampu rem hanya satu yang berfungsi,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:36:45,1197050010@student.uinsgd.ac.id,Kondisi transmisi kendaraan bermasalah dan perlu diperiksa.,Masalah Transmisi
+30/07/2023 14:37:09,1197050010@student.uinsgd.ac.id,Kaca samping kendaraan pecah dan perlu diganti.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:37:29,1197050010@student.uinsgd.ac.id,Suara mesin kendaraan terdengar berisik dan perlu diperbaiki.,Masalah Mesin
+30/07/2023 14:37:44,luthfi552@gmail.com,"AC kurang dingin, tidak seperti pertama kali memakai",Masalah Sistem Pendingin
+30/07/2023 14:38:36,1197050010@student.uinsgd.ac.id,Tombol power window di pintu pengemudi tidak berfungsi.,Gangguan Listrik
+30/07/2023 14:38:51,1197050010@student.uinsgd.ac.id,Ada bau tidak sedap yang muncul dari ventilasi AC mobil saya.,Masalah Sistem Pendingin
+30/07/2023 14:39:05,1197050010@student.uinsgd.ac.id,Suhu mesin naik secara tiba-tiba dan indikator suhu mendekati zona merah.,Masalah Mesin
+30/07/2023 14:39:18,1197050010@student.uinsgd.ac.id,Setir mobil saya terasa berat dan sulit untuk dikemudikan.,Masalah Kemudi
+30/07/2023 14:39:36,1197050010@student.uinsgd.ac.id,Saya mendengar suara gemeretak saat saya melewati jalan berlubang.,"Masalah Suspensi, Masalah Ban"
+30/07/2023 14:40:00,1197050010@student.uinsgd.ac.id,Ada bocoran cairan di bawah mobil saya setelah saya memarkirkannya.,"Masalah Sistem Knalpot, Masalah Sistem Pendingin"
+30/07/2023 14:40:13,1197050010@student.uinsgd.ac.id,Saya mengalami kesulitan dalam mengubah gigi transmisi mobil.,Masalah Transmisi
+30/07/2023 14:40:28,1197050010@student.uinsgd.ac.id,Kendaraan tidak bisa dinyalakan dan baterai kendaraan mati.,Gangguan Listrik
+30/07/2023 14:40:44,1197050010@student.uinsgd.ac.id,Mesin kendaraan terdengar berisik dan tidak stabil saat digunakan.,"Masalah Kemudi, Masalah Mesin"
+30/07/2023 14:40:57,1197050010@student.uinsgd.ac.id,Kopling kendaraan terasa berat dan sulit untuk digunakan.,Masalah Transmisi
+30/07/2023 14:41:17,1197050010@student.uinsgd.ac.id,Rem kendaraan tidak bekerja dengan baik dan memerlukan pengereman jarak jauh.,Kegagalan Rem
+30/07/2023 14:41:34,1197050010@student.uinsgd.ac.id,Ban kendaraan kempes dan perlu diganti dengan ban baru.,Masalah Ban
+30/07/2023 14:41:55,1197050010@student.uinsgd.ac.id,Kabel gas kendaraan putus dan memerlukan penggantian.,"Masalah Transmisi, Gangguan Listrik"
+30/07/2023 14:42:14,1197050010@student.uinsgd.ac.id,Mesin kendaraan terasa panas dan mengeluarkan asap putih.,"Masalah Sistem Knalpot, Masalah Mesin"
+30/07/2023 14:42:29,1197050010@student.uinsgd.ac.id,Kaca depan kendaraan pecah dan memerlukan penggantian.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:42:41,1197050010@student.uinsgd.ac.id,Air radiator kendaraan mengalami kebocoran dan perlu diperbaiki.,Masalah Sistem Pendingin
+30/07/2023 14:42:55,1197050010@student.uinsgd.ac.id,Lampu depan kendaraan tidak menyala dan memerlukan penggantian bola lampu.,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:43:08,1197050010@student.uinsgd.ac.id,Mesin kendaraan sering mati sendiri saat digunakan.,Masalah Mesin
+30/07/2023 14:43:23,1197050010@student.uinsgd.ac.id,Kondisi ban kendaraan aus dan perlu diganti.,Masalah Ban
+30/07/2023 14:43:38,1197050010@student.uinsgd.ac.id,Oli kendaraan berwarna hitam dan harus segera diganti.,"Masalah Sistem Knalpot, Masalah Mesin"
+30/07/2023 14:43:52,1197050010@student.uinsgd.ac.id,Kaca spion kendaraan pecah dan memerlukan penggantian.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:44:07,1197050010@student.uinsgd.ac.id,Suara mesin kendaraan terdengar kasar dan perlu diperbaiki.,Masalah Mesin
+30/07/2023 14:44:20,1197050010@student.uinsgd.ac.id,AC kendaraan tidak berfungsi dengan baik dan perlu diperbaiki.,Masalah Sistem Pendingin
+30/07/2023 14:44:34,1197050010@student.uinsgd.ac.id,Kopling kendaraan sering slip dan memerlukan penggantian.,Masalah Transmisi
+30/07/2023 14:45:16,1197050010@student.uinsgd.ac.id,Rem kendaraan sering berbunyi dan memerlukan perbaikan.,Kegagalan Rem
+30/07/2023 14:45:34,1197050010@student.uinsgd.ac.id,Kondisi mesin kendaraan terlalu panas dan perlu didinginkan.,Masalah Mesin
+30/07/2023 14:45:47,1197050010@student.uinsgd.ac.id,Bahan bakar kendaraan cepat habis dan perlu diperiksa.,Masalah Ban
+30/07/2023 14:46:01,1197050010@student.uinsgd.ac.id,Kaca belakang kendaraan pecah dan perlu diganti.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:53:30,1197050010@student.uinsgd.ac.id,AC kendaraan tidak dingin dan perlu diperbaiki.,Masalah Sistem Pendingin
+30/07/2023 14:53:44,1197050010@student.uinsgd.ac.id,Kopling kendaraan sering terlepas dan perlu diganti.,Masalah Transmisi
+30/07/2023 14:53:58,1197050010@student.uinsgd.ac.id,Kondisi shockbreaker kendaraan bermasalah dan perlu diperbaiki.,Masalah Suspensi
+30/07/2023 14:54:09,1197050010@student.uinsgd.ac.id,Oli mesin kendaraan menipis dan perlu ditambahkan.,Masalah Mesin
+30/07/2023 14:54:21,1197050010@student.uinsgd.ac.id,Kaca depan kendaraan tergores dan perlu diganti.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:54:34,1197050010@student.uinsgd.ac.id,Mesin kendaraan bergetar saat digunakan dan perlu diperbaiki.,Masalah Mesin
+30/07/2023 14:54:45,1197050010@student.uinsgd.ac.id,Kondisi kampas rem kendaraan aus dan perlu diganti.,Kegagalan Rem
+30/07/2023 14:54:56,1197050010@student.uinsgd.ac.id,Kunci kontak kendaraan sulit diputar dan perlu diperbaiki.,Gangguan Listrik
+30/07/2023 14:55:09,1197050010@student.uinsgd.ac.id,Lampu belakang kendaraan redup dan perlu diganti bola lampu.,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:55:22,1197050010@student.uinsgd.ac.id,Kondisi ban kendaraan tidak seimbang dan perlu diperiksa.,Masalah Ban
+30/07/2023 14:55:37,1197050010@student.uinsgd.ac.id,Kabel busi kendaraan putus dan perlu diganti.,"Masalah Transmisi, Masalah Mesin"
+30/07/2023 14:55:54,1197050010@student.uinsgd.ac.id,Mesin kendaraan mengeluarkan suara ngejreng dan perlu diperbaiki.,"Masalah Sistem Knalpot, Masalah Mesin"
+30/07/2023 14:56:17,1197050010@student.uinsgd.ac.id,AC kendaraan bocor dan perlu diperbaiki.,Masalah Sistem Pendingin
+30/07/2023 14:56:31,1197050010@student.uinsgd.ac.id,Kondisi kampas kopling kendaraan aus dan perlu diganti.,"Masalah Transmisi, Masalah Mesin"
+30/07/2023 14:56:42,1197050010@student.uinsgd.ac.id,Kaca spion kendaraan tergores dan perlu diganti.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 14:56:57,1197050010@student.uinsgd.ac.id,Mesin kendaraan sering mogok saat digunakan.,Masalah Mesin
+30/07/2023 14:57:09,1197050010@student.uinsgd.ac.id,Kondisi oli rem kendaraan kotor dan perlu diganti.,Kegagalan Rem
+30/07/2023 14:57:27,1197050010@student.uinsgd.ac.id,Mesin kendaraan terasa bergetar dengan keras saat digunakan.,"Masalah Kemudi, Masalah Mesin"
+30/07/2023 14:57:44,1197050010@student.uinsgd.ac.id,Kondisi rantai transmisi kendaraan aus dan perlu diganti.,Kondisi rantai transmisi kendaraan aus dan perlu diganti.
+30/07/2023 14:58:47,1197050010@student.uinsgd.ac.id,Kabel kopling kendaraan putus dan perlu diganti.,Masalah Transmisi
+30/07/2023 14:59:01,1197050010@student.uinsgd.ac.id,AC kendaraan mengeluarkan bau tidak sedap dan perlu diperbaiki.,Masalah Sistem Pendingin
+30/07/2023 14:59:15,1197050010@student.uinsgd.ac.id,Kondisi kampas rem kendaraan terlalu keras dan perlu diganti.,Kegagalan Rem
+30/07/2023 14:59:30,1197050010@student.uinsgd.ac.id,Sistem pengereman kendaraan bermasalah dan memerlukan perbaikan.,Kegagalan Rem
+30/07/2023 14:59:43,1197050010@student.uinsgd.ac.id,Kondisi ban kendaraan kendor pada satu sisi dan perlu diperiksa.,Masalah Ban
+30/07/2023 14:59:59,1197050010@student.uinsgd.ac.id,Kaca belakang kendaraan tergores dan perlu diganti.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 15:00:15,1197050010@student.uinsgd.ac.id,Mesin kendaraan mengeluarkan suara mendengung dan perlu diperbaiki.,"Masalah Sistem Knalpot, Masalah Mesin"
+30/07/2023 15:00:31,1197050010@student.uinsgd.ac.id,Kondisi aki kendaraan kotor dan perlu dibersihkan.,Gangguan Listrik
+30/07/2023 15:00:44,1197050010@student.uinsgd.ac.id,Lampu depan kendaraan redup dan perlu diganti bola lampu.,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 15:01:05,1197050010@student.uinsgd.ac.id,Kondisi karet pelindung mesin kendaraan aus dan perlu diganti.,Masalah Mesin
+30/07/2023 15:01:20,1197050010@student.uinsgd.ac.id,Suara mesin kendaraan terdengar nyaring dan perlu diperbaiki.,Masalah Mesin
+30/07/2023 15:01:38,1197050010@student.uinsgd.ac.id,AC kendaraan mengeluarkan bau hangat dan perlu diperbaiki.,Masalah Sistem Pendingin
+30/07/2023 15:02:32,1197050010@student.uinsgd.ac.id,Kopling kendaraan mengalami kebocoran dan perlu diperbaiki.,Masalah Transmisi
+30/07/2023 15:02:48,1197050010@student.uinsgd.ac.id,Kondisi kampas kopling kendaraan terlalu keras dan perlu diganti.,Masalah Transmisi
+30/07/2023 15:03:06,1197050010@student.uinsgd.ac.id,Sistem kelistrikan kendaraan bermasalah dan perlu diperiksa.,Gangguan Listrik
+30/07/2023 15:03:23,1197050010@student.uinsgd.ac.id,Ban kendaraan mengalami aus atau goresan dan perlu diganti.,Masalah Ban
+30/07/2023 15:04:31,1197050010@student.uinsgd.ac.id,Mesin kendaraan sering mogok saat digunakan pada gigi tertentu.,"Masalah Transmisi, Masalah Mesin"
+30/07/2023 15:04:46,1197050010@student.uinsgd.ac.id,Kondisi shockbreaker kendaraan terlalu keras dan perlu diganti.,Masalah Suspensi
+30/07/2023 15:05:00,1197050010@student.uinsgd.ac.id,"Kaca samping kendaraan tergores dan perlu diganti.
+","Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 15:05:15,1197050010@student.uinsgd.ac.id,"Kondisi mesin kendaraan terlalu berisik dan perlu diperbaiki.
+",Masalah Mesin
+30/07/2023 15:05:31,1197050010@student.uinsgd.ac.id,"AC kendaraan berisik saat digunakan dan perlu diperbaiki.
+",Masalah Sistem Pendingin
+30/07/2023 15:05:48,1197050010@student.uinsgd.ac.id,"Kondisi kopling kendaraan terlalu longgar dan perlu diganti.
+",Masalah Transmisi
+30/07/2023 15:06:05,1197050010@student.uinsgd.ac.id,Mesin kendaraan mengeluarkan bau tak sedap dan perlu diperiksa.,"Masalah Sistem Knalpot, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 15:06:19,1197050010@student.uinsgd.ac.id,Kondisi oli rem kendaraan terlalu kental dan perlu diganti.,Kegagalan Rem
+30/07/2023 15:06:37,1197050010@student.uinsgd.ac.id,Kaca depan kendaraan tergores dan perlu diganti.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 15:06:54,1197050010@student.uinsgd.ac.id,Mesin kendaraan mengeluarkan asap hitam dan perlu diperbaiki.,Masalah Sistem Knalpot
+30/07/2023 15:07:10,1197050010@student.uinsgd.ac.id,Kondisi kampas rem kendaraan terlalu keras dan perlu diganti.,Kegagalan Rem
+30/07/2023 15:07:28,1197050010@student.uinsgd.ac.id,Sistem suspensi kendaraan bermasalah dan memerlukan perbaikan.,Masalah Suspensi
+30/07/2023 15:07:44,1197050010@student.uinsgd.ac.id,Kondisi mesin kendaraan terlalu panas saat digunakan dalam waktu lama.,"Masalah Mesin, Masalah Sistem Pendingin"
+30/07/2023 15:07:58,1197050010@student.uinsgd.ac.id,AC kendaraan mengeluarkan suara berisik dan perlu diperbaiki.,"Masalah Sistem Pendingin, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 15:08:12,1197050010@student.uinsgd.ac.id,Kondisi ban kendaraan tidak seimbang dan perlu diperbaiki.,Masalah Ban
+30/07/2023 15:08:29,1197050010@student.uinsgd.ac.id,Suara mesin kendaraan terdengar seperti berdesis dan perlu diperbaiki.,Masalah Mesin
+30/07/2023 15:08:46,1197050010@student.uinsgd.ac.id,Kondisi kampas kopling kendaraan terlalu keras dan perlu diganti.,Masalah Transmisi
+30/07/2023 15:09:04,1197050010@student.uinsgd.ac.id,Lampu belakang kendaraan tidak menyala dan memerlukan penggantian bola lampu.,"Gangguan Listrik, Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 15:09:17,1197050010@student.uinsgd.ac.id,Kondisi roda kendaraan goyang dan perlu diperbaiki.,Masalah Ban
+30/07/2023 15:09:35,1197050010@student.uinsgd.ac.id,Mesin kendaraan mengeluarkan bau terbakar dan perlu diperiksa.,"Masalah Sistem Knalpot, Masalah Transmisi, Masalah Mesin"
+30/07/2023 15:09:55,1197050010@student.uinsgd.ac.id,Kondisi oli mesin kendaraan terlalu kotor dan perlu diganti.,Masalah Mesin
+30/07/2023 15:10:10,1197050010@student.uinsgd.ac.id,Kaca spion kendaraan tergores dan perlu diganti.,"Kerusakan Aksesoris Interior, Eksterior"
+30/07/2023 15:10:25,1197050010@student.uinsgd.ac.id,Kopling kendaraan terdengar berderak dan perlu diperbaiki.,Masalah Transmisi
+30/07/2023 15:10:40,1197050010@student.uinsgd.ac.id,Kondisi mesin kendaraan terlalu bising saat digunakan.,Masalah Mesin
+30/07/2023 15:11:11,1197050010@student.uinsgd.ac.id,Kondisi kampas rem kendaraan terlalu keras dan perlu diganti.,Kegagalan Rem
+30/07/2023 15:11:30,1197050010@student.uinsgd.ac.id,Sistem pengapian kendaraan bermasalah dan memerlukan perbaikan.,Masalah Sistem Bahan Bakar
+30/07/2023 15:11:45,1197050010@student.uinsgd.ac.id,Kondisi ban kendaraan terlalu licin dan perlu diganti.,Masalah Ban
+30/07/2023 15:12:00,1197050010@student.uinsgd.ac.id,Mesin kendaraan mengeluarkan suara berdecit dan perlu diperbaiki.,Masalah Mesin
+30/07/2023 15:12:27,1197050010@student.uinsgd.ac.id,Kabel gas kendaraan terlalu kendor dan perlu diganti.,"Masalah Transmisi, Gangguan Listrik, Masalah Sistem Bahan Bakar"
+30/07/2023 15:12:44,1197050010@student.uinsgd.ac.id,Kondisi AC kendaraan terlalu dingin dan perlu disetel.,Masalah Sistem Pendingin
+30/07/2023 15:12:59,1197050010@student.uinsgd.ac.id,Mesin kendaraan mengeluarkan suara ngorok dan perlu diperbaiki.,Masalah Mesin
