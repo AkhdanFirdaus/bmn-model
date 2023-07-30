@@ -7,13 +7,13 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
 
 class Preprocessing():
-    def __init__(self, stemmer, stopword, tokenizer, max_len=256):
+    def __init__(self, stemmer, stopword, tokenizer, max_len=128):
         self.stemmer = stemmer
-        self.stopword_remover = stopword
+        self.stopword = stopword
         self.tokenizer = tokenizer
         self.max_len = max_len
 
-    def casefolding(val):
+    def casefolding(self, val):
         return str(val).lower()
 
     def stemming(self, val):
@@ -58,25 +58,13 @@ class Process():
         return np.where(predictions > self.threshold, 1, 0)
 
     def measure_severity(self, inputs, labels):
-
-        return {
-
-        }
+        return {}
 
     def predict(self, inputs, labels):
-        results = dict()
-        for i in range(len(labels)):
-            results.update({
-                labels[i]: {
-                    'accuracy': 0,
-                    'prediction': 0
-                }
-            })
-
         return {
             'data': {
-                'severity': self.measure_severity(inputs, labels),
-                'results': results
+                'severity': NULL,
+                'results': [],
             }
         }
 
@@ -86,27 +74,29 @@ app = Flask(__name__)
 stemmer = StemmerFactory().create_stemmer()
 stopword = StopWordRemoverFactory().create_stop_word_remover()
 tokenizer = BertTokenizer.from_pretrained('indobenchmark/indobert-base-p1')
-preprocess = Preprocessing(stemmer, stopword, tokenizer, 256)
+preprocess = Preprocessing(stemmer, stopword, tokenizer, 128)
 
 loaded_model = tf.keras.models.load_model(
     './model/klasifikasi2.h5',
-    custom_objects={'TFBertModel': TFBertModel}
+    custom_objects={'TFBertModel': TFBertModel},
+    compile=False
 )
 process = Process(loaded_model)
 
 
-@app.route('/')
-def index():
+@app.route('/hello', methods=['GET'])
+def hello():
     return jsonify({'message': 'Hello World!'})
 
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    labels = request.form['labels']
-    inputs = request.form['inputs']
+    # labels = request.form['labels']
+    incoming_request = request.get_json()
+    inputs = incoming_request.get('inputs')
     tokenized = preprocess.preprocessing(inputs)
     predictions = process.rounded_predictions(tokenized)
-    return jsonify({'data': predictions.tolist()})
+    return jsonify({'data': predictions})
 
 
 if __name__ == '__main__':
